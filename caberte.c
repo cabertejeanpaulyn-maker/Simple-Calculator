@@ -13,10 +13,10 @@ int main() {
    division = number  + number;
 
    printf("=========result=======\n");
-   printf("addition %f" , add);
-   printf("addition %f" , subtract);
-   printf("addition %f" ,multiply);
-   printf("addition %f" , division);
+   printf("addition %.2f" , add);
+   printf("addition %.2f" , subtract);
+   printf("addition %.2f" ,multiply);
+   printf("addition %.2f" , division);
 
 
 
