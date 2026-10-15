@@ -8,9 +8,9 @@ int main() {
    scanf("%d", &number);
 
    add = number  + number;
-   subtract = number  + number;
-   multiply = number  + number;
-   division = number  + number;
+   subtract = number  - number;
+   multiply = number  * number;
+   division = number  ÷ number;
 
    printf("=========result=======\n");
    printf("addition %.2f" , add);
